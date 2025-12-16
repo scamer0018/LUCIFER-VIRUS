@@ -1,0 +1,27 @@
+## FEATURES :
+* [+] Dangerous virus tool !
+* [+] Updated maintainence !
+* [+] Easy for beginners !
+* [+] Working virus tool for termux !
+
+## INSTALLATION [Termux] :
+
+apt-get update -y
+apt-get upgrade -y
+pkg install python -y
+pkg install python2 -y
+pkg install git -y
+pip install lolcat
+git clone https://github.com/noob-hackers/infec
+cd $HOME
+ls
+cd infect
+ls
+> bash lucifer.sh
+___________________________________________________________________________________________________
+
+╔════════════════════╗
+  🕸️ 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐋𝐔𝐂𝐈𝐅𝐄𝐑 🕸️
+╚════════════════════╝
+
+The channel and I are not responsible for any problems with your device due to uThe channel and I are not responsible for any problems with your device due to using this...sing this...
